@@ -1,0 +1,35 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+
+.container{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.box{
+    background-color: #333;
+    padding: 80px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+}
+
+p{
+    color: gold;
+}
+
+span{
+    color: red;
+}
